@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruben Adisuryo</h1>
-<h3 align="center">A passionate Back-End Developer from Indonesia</h3>
+<h3 align="center">A Back-End Developer wannabe from Indonesia</h3>
 
 # 💫 About Me:
 🔭 I’m currently studying on Telkom University<br>🌱 I’m currently still learning more about backend<br>📫 How to reach me rubenadisuryo22@gmail.com
