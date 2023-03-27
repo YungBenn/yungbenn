@@ -2,7 +2,7 @@
 <h3 align="center">A Back-End Developer wannabe from Indonesia</h3>
 
 # 💫 About Me:
-🔭 I’m currently studying on Telkom University<br>🌱 I’m currently still learning more about backend<br>📫 How to reach me rubenadisuryo22@gmail.com
+🔭 I’m currently studying on Telkom University<br>🌱 I’m currently learning Golang and Svelte<br>📫 How to reach me rubenadisuryo22@gmail.com
 
 
 ## 🌐 Socials:
