@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ruben-adisuryo-nugroho-21b9261b3/)
 
-- ⚡ Fun fact **I think my brain is random**
+- ⚡ Fun fact **my brain is random**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
