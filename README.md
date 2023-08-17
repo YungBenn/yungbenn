@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/itsbenbenn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsbenbenn" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ruben-adisuryo-nugroho-21b9261b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruben-adisuryo-nugroho-21b9261b3" height="30" width="40" /></a>
-<a href="https://instagram.com/rubenadi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rubenadi_" height="30" width="40" /></a>
+<a href="https://x.com/itsbenbenn" target="blank"><img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="itsbenbenn" /></a>
+<a href="https://linkedin.com/in/ruben-adisuryo-nugroho-21b9261b3" target="blank"><img src="https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="ruben-adisuryo-nugroho-21b9261b3" /></a>
+<a href="https://instagram.com/rubenadi_" target="blank"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="rubenadi_" /></a>
 </p>
 
 ### Languages and Tools:
