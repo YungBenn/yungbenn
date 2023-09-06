@@ -1,7 +1,8 @@
-# Hi 👋, I'm Ruben Adisuryo Nugroho
+<h1 align="center">Hi 👋, I'm Ruben Adisuryo Nugroho</h1>
 
-## A Backend Developer wannabe from Indonesia
+<h3 align="center">A Backend Developer wannabe from Indonesia</h3>
 
+### About me:
 -   🔭 I’m currently studying on **Telkom University**
 -   🌱 I’m currently learning **Java** & **GCP**
 -   👨‍💻 All of my projects are available at [GitHub](https://github.com/YungBenn)
@@ -9,13 +10,12 @@
 -   📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ruben-adisuryo-nugroho-21b9261b3/)
 -   ⚡ Fun fact **my brain is random**
 
-## Connect with me:
+### Connect with me:
 [![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsbenbenn)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruben-adisuryo-nugroho-21b9261b3)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rubenadi_)
 
-## Languages and Tools:
-
+### Languages and Tools:
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white) 
