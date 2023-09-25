@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ruben Adisuryo Nugroho</h1>
 
-<h3 align="center">A Backend Developer wannabe from Indonesia</h3>
+<h3 align="center">A Backend Developer from Indonesia</h3>
 
 ### About me:
 -   🔭 I’m currently studying on **Telkom University**
