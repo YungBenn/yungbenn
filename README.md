@@ -11,7 +11,6 @@
 -   ⚡ Fun fact **my brain is random**
 
 ### Connect with me:
-[![X](https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/itsbenbenn)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ruben-adisuryo-nugroho-21b9261b3)
 [![Instagram](https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rubenadi_)
 
