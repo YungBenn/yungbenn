@@ -3,7 +3,7 @@
 <h3 align="center">A Backend Developer from Indonesia</h3>
 
 ### About me:
--   🔭 I’m currently studying on **Telkom University**
+-   🔭 I’m currently final year student at **Telkom University**
 -   🌱 I’m currently learning **Java** & **gRPC**
 -   👨‍💻 All of my projects are available at [GitHub](https://github.com/YungBenn)
 -   📫 How to reach me **rubenadisuryo22@gmail.com**
