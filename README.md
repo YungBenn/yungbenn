@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Ruben Adisuryo Nugroho</strong> · Backend Engineer<br>
-    Go · TypeScript · React · Node.js · PostgreSQL · DevOps
+    Go · TypeScript · gRPC · Node.js · Python · PostgreSQL · DevOps
 </p>
 
 <p align="center">
