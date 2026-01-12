@@ -35,8 +35,8 @@
 ---
 ## ◇ Organizations
 
-- **[ChatCue](https://github.com/chatcue)
--   Turn messy work chats into a clean, organized task list across projects with AI. *In Progress*
+- [ChatCue](https://github.com/chatcue) · Turn messy work chats into a clean, organized task list across projects with AI.
+- [SportGather](https://github.com/sportgather) · Sport enthusiast platform.
 
 ## → Connect with Me
 
