@@ -35,8 +35,8 @@
 ---
 ## ◇ Organizations
 
-- **[ChatCue](https://github.com/chatcue)** - *In Progress*
--   An innovative chat-based application. Currently in active development.
+- **[ChatCue](https://github.com/chatcue)
+-   Turn messy work chats into a clean, organized task list across projects with AI. *In Progress*
 
 ## → Connect with Me
 
