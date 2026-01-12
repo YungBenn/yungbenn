@@ -33,6 +33,10 @@
 </p>
 
 ---
+## ◇ Organizations
+
+- **[ChatCue](https://github.com/chatcue)** - *In Progress*
+-   An innovative chat-based application. Currently in active development.
 
 ## → Connect with Me
 
