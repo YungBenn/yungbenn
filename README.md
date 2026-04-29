@@ -16,9 +16,9 @@
 
 | Project | Description | Stars |
 | --- | --- | --- |
+| [Kryzov][17] | A Russian BTC/USD market research AI Agent for Hyperliquid derivatives. | ![stars](https://img.shields.io/github/stars/YungBenn/kryzov?style=flat&logo=github) |
 | [Orderflow Analytics Engine][15] | Real-time orderflow & market microstructure analytics engine for Binance USDT-M perpetual futures, designed for scalping research, execution analysis, and deterministic replay. | ![stars](https://img.shields.io/github/stars/YungBenn/orderflow-analytics-engine?style=flat&logo=github) |
 | [Tech Shop Microservices][1] | E-Commerce microservices built with gRPC and modern architecture patterns. Complete microservices solution for scalable e-commerce. | ![stars](https://img.shields.io/github/stars/YungBenn/tech-shop-microservices?style=flat&logo=github) |
-| [Keygen][3] | Cryptographically secure key generator built with Go. Generate strong random keys using CSPRNG with customizable length via CLI. | ![stars](https://img.shields.io/github/stars/YungBenn/keygen?style=flat&logo=github) |
 | [YungBot - WhatsApp Assistant][5] | Personal WhatsApp assistant bot built with TypeScript. Automating WhatsApp interactions with modern JavaScript/TypeScript. | ![stars](https://img.shields.io/github/stars/YungBenn/wa-yungbot?style=flat&logo=github) |
 | [CarsAPI][7] | RESTful API for car management built with TypeScript. Type-safe backend for vehicle data management. | ![stars](https://img.shields.io/github/stars/YungBenn/My-CarsAPI-Typescript?style=flat&logo=github) |
 | [Go-gRPC-HTTP][9] | Implementation of gRPC and HTTP protocols in Go. Understanding modern RPC and REST frameworks. | ![stars](https://img.shields.io/github/stars/YungBenn/go-grpc-http?style=flat&logo=github) |
@@ -64,4 +64,5 @@
 [11]: https://github.com/YungBenn/go-whatsapp-web-multidevice
 [13]: https://github.com/YungBenn/java-cp-template
 [15]: https://github.com/YungBenn/orderflow-analytics-engine
+[17]: https://github.com/YungBenn/kryzov
   </em></strong>
