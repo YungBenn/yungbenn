@@ -18,7 +18,7 @@
 | --- | --- | --- |
 | [Kryzov][17] | A Russian BTC/USD market research AI Agent for Hyperliquid derivatives. | ![stars](https://img.shields.io/github/stars/YungBenn/kryzov?style=flat&logo=github) |
 | [Orderflow Analytics Engine][15] | Real-time orderflow & market microstructure analytics engine for Binance USDT-M perpetual futures, designed for scalping research, execution analysis, and deterministic replay. | ![stars](https://img.shields.io/github/stars/YungBenn/orderflow-analytics-engine?style=flat&logo=github) |
-| [Tech Shop Microservices][1] | E-Commerce microservices built with gRPC and modern architecture patterns. Complete microservices solution for scalable e-commerce. | ![stars](https://img.shields.io/github/stars/YungBenn/tech-shop-microservices?style=flat&logo=github) |
+| [yungpage][1] | Upload a single static HTML file from the CLI, get back a public, unlisted URL. | ![stars](https://img.shields.io/github/stars/YungBenn/yungpage?style=flat&logo=github) |
 | [YungBot - WhatsApp Assistant][5] | Personal WhatsApp assistant bot built with TypeScript. Automating WhatsApp interactions with modern JavaScript/TypeScript. | ![stars](https://img.shields.io/github/stars/YungBenn/wa-yungbot?style=flat&logo=github) |
 | [Flowcus][7] | Focus timer with ambient sound. | ![stars](https://img.shields.io/github/stars/YungBenn/flowcus?style=flat&logo=github) |
 | [Go-gRPC-HTTP][9] | Implementation of gRPC and HTTP protocols in Go. Understanding modern RPC and REST frameworks. | ![stars](https://img.shields.io/github/stars/YungBenn/go-grpc-http?style=flat&logo=github) |
@@ -56,7 +56,7 @@
     </a>
 </p>
 
-[1]: https://github.com/YungBenn/tech-shop-microservices
+[1]: https://yungpage.netlify.app
 [3]: https://github.com/YungBenn/keygen
 [5]: https://github.com/YungBenn/wa-yungbot
 [7]: https://github.com/YungBenn/flowcus
