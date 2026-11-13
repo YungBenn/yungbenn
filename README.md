@@ -38,8 +38,6 @@
   <em>▸ More projects coming soon! Stay tuned.</em>
 </p>
 
----
-
 ## → Connect with Me
 
 <p align="center">
