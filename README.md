@@ -2,8 +2,8 @@
 
 <p align="center">
   <strong>Ruben Adisuryo Nugroho</strong><br>
-    Software Engineer · WEB3 Learner<br>
-    Go · TypeScript · gRPC · Node.js · Python · PostgreSQL · DevOps
+    Software Engineer · AI Deep Diver<br>
+    Go · TypeScript · gRPC · Bun · Python · PostgreSQL · DevOps
 </p>
 
 <p align="center">
@@ -35,10 +35,6 @@
 </p>
 
 ---
-## ◇ Organizations
-
-- [ChatCue](https://github.com/chatcue) · Turn messy work chats into a clean, organized task list across projects with AI.
-- [SportGather](https://github.com/sportgather) · Sport enthusiast platform.
 
 ## → Connect with Me
 
