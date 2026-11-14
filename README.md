@@ -17,7 +17,7 @@
 | Project | Description | Stars |
 | --- | --- | --- |
 | [Kryzov][1] | Terminal-native BTC/USD market research AI agent for Hyperliquid derivatives. Multi-provider LLM (OpenAI, Anthropic, Ollama, ...) built with Bun. | ![stars](https://img.shields.io/github/stars/YungBenn/kryzov?style=flat&logo=github) |
-| [Valuequake][2] | Estimates how strongly news will move specific ETFs, then measures those estimates against what actually happened (abnormal returns, base rates, calendar baseline). | ![stars](https://img.shields.io/github/stars/YungBenn/valuequake?style=flat&logo=github) |
+| [Valuequake][2] (WIP) | Estimates how strongly news will move specific ETFs, then measures those estimates against what actually happened (abnormal returns, base rates, calendar baseline). | ![stars](https://img.shields.io/github/stars/YungBenn/valuequake?style=flat&logo=github) |
 | [Orderflow Analytics Engine][3] | Real-time orderflow & market microstructure analytics engine for Binance USDT-M perpetual futures, designed for scalping research, execution analysis, and deterministic replay. | ![stars](https://img.shields.io/github/stars/YungBenn/orderflow-analytics-engine?style=flat&logo=github) |
 | [Tech Shop Microservices][4] | E-commerce backend built with a Go microservices architecture communicating over gRPC, fully dockerized. | ![stars](https://img.shields.io/github/stars/YungBenn/tech-shop-microservices?style=flat&logo=github) |
 | [Flowcus][5] | A calm, client-side focus timer that pairs a living 3D motion bubble with ambient sound. Next.js + react-three-fiber. | ![stars](https://img.shields.io/github/stars/YungBenn/flowcus?style=flat&logo=github) |
