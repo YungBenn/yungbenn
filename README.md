@@ -16,7 +16,7 @@
 
 | Project | Description | Stars |
 | --- | --- | --- |
-| [tally.chat][13] | Self-hosted chat app for your own API keys, built around the prompt cache: keeps it warm while you read and shows what every turn costs. Next.js + Convex. | ![stars](https://img.shields.io/github/stars/YungBenn/tally-chat?style=flat&logo=github) |
+| [tally.chat][13] | Self-hosted AI chat app for your own API keys, built around the prompt cache: keeps it warm while you read and shows what every turn costs. Next.js + Convex. | ![stars](https://img.shields.io/github/stars/YungBenn/tally-chat?style=flat&logo=github) |
 | [Kryzov][1] | Terminal-native BTC/USD market research AI agent for Hyperliquid derivatives. Multi-provider LLM (OpenAI, Anthropic, Ollama, ...) built with Bun. | ![stars](https://img.shields.io/github/stars/YungBenn/kryzov?style=flat&logo=github) |
 | [Valuequake][2] (WIP) | Estimates how strongly news will move specific ETFs, then measures those estimates against what actually happened (abnormal returns, base rates, calendar baseline). | ![stars](https://img.shields.io/github/stars/YungBenn/valuequake?style=flat&logo=github) |
 | [Orderflow Analytics Engine][3] | Real-time orderflow & market microstructure analytics engine for Binance USDT-M perpetual futures, designed for scalping research, execution analysis, and deterministic replay. | ![stars](https://img.shields.io/github/stars/YungBenn/orderflow-analytics-engine?style=flat&logo=github) |
